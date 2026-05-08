@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Original large media files
+# These are source/original files and should not be deployed.
+assets/images/
+assets/videos/
+
+# Keep optimized media for the live website
+!assets/images-webp/
+!assets/images-webp/**
+!assets/videos-optimized/
+!assets/videos-optimized/**
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/system folders
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+.cache/
