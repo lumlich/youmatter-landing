@@ -14,7 +14,7 @@ Its goal is to present the visual identity, product philosophy, and online prese
 
 ## Live website
 
-https://youmatterjewelry.com
+[https://youmatterjewelry.com](https://www.youmatterjewelry.com/)
 
 ## Tech stack
 
